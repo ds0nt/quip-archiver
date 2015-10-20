@@ -1,0 +1,69 @@
+<h1 id='ANSACAmIh5A'>Software Development Meets</h1>
+
+<p id='ANSACAqmG7x' class='line'><b>Best Contact Times (Central Time):</b></p>
+
+<div data-section-style='5'><ul id='ANSACA6NMzf'><li id='ANSACA9NxrZ' class='parent' value='1'><span id='ANSACA9NxrZ'>Matt</span>
+
+<br/></li><ul><li id='ANSACAoNbCy' class=''><span id='ANSACAoNbCy'> Weekends.  Monday 13:00-19:00, Tuesday-Thursday 16:00 - 19:00</span>
+
+<br/></li></ul><li id='ANSACASIAWL' class='parent'><span id='ANSACASIAWL'>Josh</span>
+
+<br/></li><ul><li id='ANSACAfcOzr' class=''><span id='ANSACAfcOzr'>Weekends. Tuesday &amp; Thursday 13:00 - 19:00</span>
+
+<br/></li></ul><li id='ANSACAOq7qD' class='parent'><span id='ANSACAOq7qD'>Dan</span>
+
+<br/></li><ul><li id='ANSACA3sFLT' class=''><span id='ANSACA3sFLT'>Weekends and Weekdays. </span>
+
+<br/></li></ul></ul></div><p id='ANSACAuTzVb' class='line'>Best Contact Times: Coming soon...</p>
+
+<p id='ANSACA7IEKn' class='line'>​</p>
+
+<h2 id='ANSACAKil2J'>Meeting #1</h2>
+
+<p id='ANSACAEUTed' class='line'><b>Goals of Today's Chat</b></p>
+
+<div data-section-style='5'><ul id='ANSACA3ob6X'><li id='ANSACAHzVUG' class='parent' value='1'><span id='ANSACAHzVUG'>Become acquainted</span>
+
+<br/></li><ul><li id='ANSACAkEHYJ' class=''><span id='ANSACAkEHYJ'>Coding Experience - Our Strengths and Weaknesses</span>
+
+<br/></li></ul><li id='ANSACAMbnru' class='parent'><span id='ANSACAMbnru'>Get us all on the same page</span>
+
+<br/></li><ul><li id='ANSACAyKx3o' class=''><span id='ANSACAyKx3o'>What is everyone working on?</span>
+
+<br/></li><li id='ANSACA0hqzT' class=''><span id='ANSACA0hqzT'>What's on our minds?</span>
+
+<br/></li></ul><li id='ANSACA51o3i' class='parent'><span id='ANSACA51o3i'>How are we going to communicate</span>
+
+<br/></li><ul><li id='ANSACAtI9RC' class=''><span id='ANSACAtI9RC'>Bitbucket</span>
+
+<br/></li><li id='ANSACArszh3' class=''><span id='ANSACArszh3'>Google Docs documentation (<i>mainly used for design reports and planning</i>)</span>
+
+<br/></li></ul><li id='ANSACAAO10B' class='parent'><span id='ANSACAAO10B'>Discuss how we can take the existing minOS and the hardware we are finding, and make it work</span>
+
+<br/></li><ul><li id='ANSACAk8Ki0' class=''><span id='ANSACAk8Ki0'>What is the best way to minium-ify this hardware?</span>
+
+<br/></li><li id='ANSACAvJczj' class=''><span id='ANSACAvJczj'>What would it be like to port current MinOS?</span>
+
+<br/></li><li id='ANSACA6OpMo' class='parent'><span id='ANSACA6OpMo'>What is the cutting edge frameworks/OSes in this area?</span>
+
+<br/></li><ul><li id='ANSACAcCgTB' class=''><span id='ANSACAcCgTB'>Which ones are popular?</span>
+
+<br/></li><li id='ANSACACxcH8' class=''><span id='ANSACACxcH8'>Which ones tie our hands the least?</span>
+
+<br/></li><li id='ANSACA3d8Bs' class=''><span id='ANSACA3d8Bs'>Evaluate</span>
+
+<br/></li></ul></ul><li id='ANSACAaVA0I' class=''><span id='ANSACAaVA0I'>See if I can add value to what you have already done (it is awesome by the way, blown away, 100% respect :))</span>
+
+<br/></li><li id='ANSACA8TtRq' class=''><span id='ANSACA8TtRq'>A common plan &amp; direction</span>
+
+<br/></li></ul></div><p id='ANSACAz0DwC' class='line'>​</p>
+
+<p id='ANSACAGAVvR' class='line'><b>Summary Notes</b></p>
+
+<div data-section-style='5'><ul id='ANSACAkTRIx'><li id='ANSACAuCD8J' class='' value='1'><span id='ANSACAuCD8J'>Matt &amp; Jake are making a port for STM32 F401RE (Relevant Google Doc: OpenAT-MinOS Architecture Overview)</span>
+
+<br/></li><li id='ANSACA5RrAG' class=''><span id='ANSACA5RrAG'>Gave Dan an overview of how to port MinOS to Banana Pi</span>
+
+<br/></li><li id='ANSACAJejb1' class=''><span id='ANSACAJejb1'><del>BitBucket will soon have enough slots for everyone. Edit: now Dan has <annotation id="ANSACAUi9uu">access. And Jake too.</annotation></del></span>
+
+<br/></li></ul></div>

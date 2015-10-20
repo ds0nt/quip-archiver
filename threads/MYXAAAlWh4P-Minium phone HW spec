@@ -1,0 +1,158 @@
+<h1 id='MYXACAsossl'>Minium phone HW spec</h1>
+
+<h2 id='MYXACAP268H'>The ideal SPEC:</h2>
+
+<div data-section-style='5'><ul id='MYXACALtmRL'><li id='MYXACAnfkUz' class='' value='1'><span id='MYXACAnfkUz'><annotation id="MYXACA3VCSe">Sierra Kickstarter Prototype Spec:</annotation></span>
+
+<br/></li></ul></div><div data-section-style='13'><table id='MYXACA7n64o' title='Table1_2' style='width: 40em;'><thead><tr><th id='MYXACABJhDB' class='empty' style='width: 8em'>A<br/></th><th id='MYXACACbbAK' class='empty' style='width: 8em'>B<br/></th><th id='MYXACAhtlxy' class='empty' style='width: 8em'>C<br/></th><th id='MYXACAn4Qbd' class='empty' style='width: 8em'>D<br/></th><th id='MYXACAbMt0u' class='empty' style='width: 8em'>E<br/></th></tr></thead><tbody><tr id='MYXACAqwNZI'><td id='MYXACAHZica'><span id='MYXACAHZica'>Display</span>
+
+<br/></td><td id='MYXACAz745R'><span id='MYXACAz745R'>sharp e-paper</span>
+
+<br/></td><td id='MYXACAcoijO'><span id='MYXACAcoijO'>​</span>
+
+<br/></td><td id='MYXACAICgE5'><span id='MYXACAICgE5'>​</span>
+
+<br/></td><td id='MYXACAypJxK'><span id='MYXACAypJxK'>​</span>
+
+<br/></td></tr><tr id='MYXACAbcv53'><td id='MYXACA7PRbd'><span id='MYXACA7PRbd'>Processor (MHZ / MIPS)</span>
+
+<br/></td><td id='MYXACAJPHi2'><span id='MYXACAJPHi2'>MTK 2502</span>
+
+<br/></td><td id='MYXACAiuDRk'><span id='MYXACAiuDRk'>​</span>
+
+<br/></td><td id='MYXACAo7U8G'><span id='MYXACAo7U8G'>​</span>
+
+<br/></td><td id='MYXACAmRtLq'><span id='MYXACAmRtLq'>​</span>
+
+<br/></td></tr><tr id='MYXACAf1FsZ'><td id='MYXACAIsctz'><span id='MYXACAIsctz'>RAM</span>
+
+<br/></td><td id='MYXACA4wVH4'><span id='MYXACA4wVH4'>4mb</span>
+
+<br/></td><td id='MYXACAQ2nO2'><span id='MYXACAQ2nO2'>​</span>
+
+<br/></td><td id='MYXACAo67zD'><span id='MYXACAo67zD'>​</span>
+
+<br/></td><td id='MYXACA9JTpj'><span id='MYXACA9JTpj'>​</span>
+
+<br/></td></tr><tr id='MYXACASRzzo'><td id='MYXACAqJRE9'><span id='MYXACAqJRE9'>Body</span>
+
+<br/></td><td id='MYXACAQf0YQ'><span id='MYXACAQf0YQ'>?</span>
+
+<br/></td><td id='MYXACATjmjA'><span id='MYXACATjmjA'>​</span>
+
+<br/></td><td id='MYXACA9i9cI'><span id='MYXACA9i9cI'>​</span>
+
+<br/></td><td id='MYXACA8aV63'><span id='MYXACA8aV63'>​</span>
+
+<br/></td></tr><tr id='MYXACAMSHqI'><td id='MYXACAm5DZ9'><span id='MYXACAm5DZ9'>3g (Quad or Penta)</span>
+
+<br/></td><td id='MYXACAEiZSq'><span id='MYXACAEiZSq'>gsm</span>
+
+<br/></td><td id='MYXACA9dNIq'><span id='MYXACA9dNIq'>​</span>
+
+<br/></td><td id='MYXACAAPmH8'><span id='MYXACAAPmH8'>​</span>
+
+<br/></td><td id='MYXACAEDswy'><span id='MYXACAEDswy'>​</span>
+
+<br/></td></tr><tr id='MYXACAbnGIn'><td id='MYXACAI9zNH'><span id='MYXACAI9zNH'>Speaker</span>
+
+<br/></td><td id='MYXACAvMFYc'><span id='MYXACAvMFYc'>?</span>
+
+<br/></td><td id='MYXACAxREn1'><span id='MYXACAxREn1'>​</span>
+
+<br/></td><td id='MYXACAq983w'><span id='MYXACAq983w'>​</span>
+
+<br/></td><td id='MYXACAOAduX'><span id='MYXACAOAduX'>​</span>
+
+<br/></td></tr><tr id='MYXACAyQPk9'><td id='MYXACALReTs'><span id='MYXACALReTs'>Keypad</span>
+
+<br/></td><td id='MYXACAbbOnU'><span id='MYXACAbbOnU'>?</span>
+
+<br/></td><td id='MYXACAfBYuf'><span id='MYXACAfBYuf'>​</span>
+
+<br/></td><td id='MYXACA1Cw53'><span id='MYXACA1Cw53'>​</span>
+
+<br/></td><td id='MYXACA5khjS'><span id='MYXACA5khjS'>​</span>
+
+<br/></td></tr><tr id='MYXACAMuyr4'><td id='MYXACAcfN75'><span id='MYXACAcfN75'>Microphones</span>
+
+<br/></td><td id='MYXACA3qmr6'><span id='MYXACA3qmr6'>?</span>
+
+<br/></td><td id='MYXACAXHV9O'><span id='MYXACAXHV9O'>​</span>
+
+<br/></td><td id='MYXACAD8KWa'><span id='MYXACAD8KWa'>​</span>
+
+<br/></td><td id='MYXACANi2XM'><span id='MYXACANi2XM'>​</span>
+
+<br/></td></tr><tr id='MYXACAsD9vi'><td id='MYXACAk0gyc'><span id='MYXACAk0gyc'>Board Mfgr</span>
+
+<br/></td><td id='MYXACA8LmkN'><span id='MYXACA8LmkN'>metadev</span>
+
+<br/></td><td id='MYXACAvSDXk'><span id='MYXACAvSDXk'>​</span>
+
+<br/></td><td id='MYXACAZWGiE'><span id='MYXACAZWGiE'>​</span>
+
+<br/></td><td id='MYXACAJYgB0'><span id='MYXACAJYgB0'>​</span>
+
+<br/></td></tr><tr id='MYXACAaJuww'><td id='MYXACAyRFfg'><span id='MYXACAyRFfg'>Programmability Assessment from Dan, Matt &amp; Joshua</span>
+
+<br/></td><td id='MYXACAaulXJ'><span id='MYXACAaulXJ'>from 3km away, you can see that this is more programmable than anything else</span>
+
+<br/></td><td id='MYXACAXuOwc'><span id='MYXACAXuOwc'>​</span>
+
+<br/></td><td id='MYXACAyZMPA'><span id='MYXACAyZMPA'>​</span>
+
+<br/></td><td id='MYXACAx6TWO'><span id='MYXACAx6TWO'>​</span>
+
+<br/></td></tr></tbody></table></div><p id='MYXACAxdT9m' class='line'>Alternatively, we can use:</p>
+
+<p id='MYXACAunsAg' class='line'>​</p>
+
+<div data-section-style='11' style='max-width:100%'><img src='/blob/MYXAAAlWh4P/MI7X7w55PDFW6V22Rleg4Q' id='MYXACA0EKro' alt='' width='667' height='354'></img></div><p id='MYXACAEP6rS' class='line'>Which supports 3g.  </p>
+
+<p id='MYXACAwXkZp' class='line'>​</p>
+
+<p id='MYXACA2e9go' class='line'>​</p>
+
+<div data-section-style='5'><ul id='MYXACA5Pqk1'><li id='MYXACAW0Mqk' class='' value='1'><span id='MYXACAW0Mqk'>MetaDev Spec #1:</span>
+
+<br/></li></ul></div><div data-section-style='13'><table id='MYXACArrrje' title='Table2' style='width: 16em;'><thead><tr><th id='MYXACAw5gEO' class='empty' style='width: 8em'>A<br/></th><th id='MYXACA579v4' class='empty' style='width: 8em'>B<br/></th></tr></thead><tbody><tr id='MYXACAHrZu9'><td id='MYXACAVthar'><span id='MYXACAVthar'>Display</span>
+
+<br/></td><td id='MYXACAxAYyR'><span id='MYXACAxAYyR'>​</span>
+
+<br/></td></tr><tr id='MYXACAVDdPl'><td id='MYXACAfPLKW'><span id='MYXACAfPLKW'>Processor</span>
+
+<br/></td><td id='MYXACA8xv7O'><span id='MYXACA8xv7O'>imx233 based on an olimex design and MetaDev's integration of a non-encumbered 3g module supporting voice</span>
+
+<br/></td></tr><tr id='MYXACAVWSqQ'><td id='MYXACAhXJzk'><span id='MYXACAhXJzk'>RAM</span>
+
+<br/></td><td id='MYXACAWoQWE'><span id='MYXACAWoQWE'>64MB</span>
+
+<br/></td></tr><tr id='MYXACAYTuSP'><td id='MYXACAAkurx'><span id='MYXACAAkurx'>Body</span>
+
+<br/></td><td id='MYXACAKj1Zs'><span id='MYXACAKj1Zs'>​</span>
+
+<br/></td></tr><tr id='MYXACAPsSVc'><td id='MYXACAlDRD8'><span id='MYXACAlDRD8'>3g</span>
+
+<br/></td><td id='MYXACAuDla7'><span id='MYXACAuDla7'>​</span>
+
+<br/></td></tr><tr id='MYXACAVf2nE'><td id='MYXACA4xj2g'><span id='MYXACA4xj2g'>Board Manufacturer</span>
+
+<br/></td><td id='MYXACAAEscH'><span id='MYXACAAEscH'>MinHa via MetaDev; MinHa outsource PCB production to Mekong Electronics &amp; does SMT manufacturing @ MetaDev</span>
+
+<br/></td></tr><tr id='MYXACAfpezC'><td id='MYXACAJV9Xo'><span id='MYXACAJV9Xo'>Programability Assessment</span>
+
+<br/></td><td id='MYXACAlFI1y'><span id='MYXACAlFI1y'>Awesome.  This spec runs the Linux-next Kernel if you want it to, and because of that, it can do just about anything else we mgiht want, too. </span>
+
+<br/></td></tr><tr id='MYXACAYAH1M'><td id='MYXACAKBT3D'><span id='MYXACAKBT3D'>Keypad</span>
+
+<br/></td><td id='MYXACAinoAR'><span id='MYXACAinoAR'>​</span>
+
+<br/></td></tr><tr id='MYXACAgfVXv'><td id='MYXACA7ToJD'><span id='MYXACA7ToJD'>​</span>
+
+<br/></td><td id='MYXACA1H1kS'><span id='MYXACA1H1kS'>​</span>
+
+<br/></td></tr></tbody></table></div><div data-section-style='5'><ul id='MYXACAycRMR'><li id='MYXACAJGQ9R' class='' value='1'><span id='MYXACAJGQ9R'><annotation id="MYXACArxFQR">MetaDev Spec #2:</annotation></span>
+
+<br/></li></ul></div><p id='MYXACA3Ixgo' class='line'>I'd like to see Spec #1 get unstalled &amp; get clarity on <annotation id="MYXACAW5B6y">compensation</annotation> and equity before we get into this.  We're highly invested now, and want to become more invested.  We've asked to speak, but haven't heard anything.  I do <annotation id="MYXACAHpHFP">hope that we can speak </annotation>becuse I think that we can succesfully launch an excellent and profitable product together.  </p>
+
